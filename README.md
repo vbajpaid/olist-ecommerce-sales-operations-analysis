@@ -5,9 +5,6 @@ PostgreSQL, SQL and Power BI** to explore Brazilian e-commerce data,
 assess sales and fulfilment performance, and communicate business
 insights through an interactive dashboard and project report.
 
-> **Project status:** In progress --- dashboard built; final metric
-> reconciliation, documentation and portfolio packaging are ongoing.
-
 ## 1. Project Overview
 
 This project analyses the **Brazilian E-Commerce Public Dataset by
