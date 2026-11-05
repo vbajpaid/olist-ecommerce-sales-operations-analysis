@@ -280,9 +280,6 @@ olist-ecommerce-sales-operations-analysis/
 └── README.md
 ```
 
-Keep only files that actually exist in the repository. The presentation
-folder is optional until the deck is ready.
-
 ## 9. How to Run the Project
 
 ### Prerequisites
@@ -366,15 +363,13 @@ therefore be described as item-price sales.
 -   Analyse freight charges and delivery cost patterns.
 -   Extend seller-level and review-score analysis.
 -   Add profitability analysis if reliable cost data becomes available.
--   Finalise a stakeholder presentation and publish the completed
-    project report.
 
 ## 12. Author
 
 **Vishal Bajpai**\
 Aspiring Data Analyst \| Python \| SQL \| PostgreSQL \| Power BI
 
--   GitHub: `https://github.com/<your-username>`
+-   GitHub: `https://github.com/vbajpaid`
 -   LinkedIn: `https://www.linkedin.com/in/vishal-bajpai57/`
 
 ------------------------------------------------------------------------
